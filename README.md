@@ -8,6 +8,8 @@ The engine features some render modes, base color render mode, wireframe render 
 
 This shit runs extremely well in bad computers, I used a **i3 with integrated graphics** to make this
 
+oh, by the way, this only draws triangles, so something like reflections are realy dificult, and light values are based on distance, shadows are not posible
+
 ![image](https://user-images.githubusercontent.com/59940124/151159167-9d70d4ca-2c39-41c8-84bc-e8de58119402.png)
 
 *complete render "shader"*
