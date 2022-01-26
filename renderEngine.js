@@ -1,4 +1,4 @@
-var version = "1.2.1";
+    var version = "1.2.2";
 
     var canvas = document.getElementById("canvas");
     
