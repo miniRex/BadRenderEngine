@@ -40,7 +40,3 @@ If you want to modify the background just replace the image called "Background.j
 
 ***
 *do whatever you want with the code, but please give credits if you publish it*
-
-
-
-*fun fact: I made this during class*
