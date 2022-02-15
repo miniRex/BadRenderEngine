@@ -1,6 +1,5 @@
 # Bad Render Engine
 
-I just made this because I was bored, and I made it in **Java Script** because I dislike **C++**.
 I think most of the code works in a very awkward way.
 The mesh rotation is a nightmare, works in a very weird way, and is a complete mess. I tried to improve it, but the only way to do that is redoing it from 0.
 
