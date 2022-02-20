@@ -5,7 +5,7 @@ The mesh rotation is a nightmare, works in a very weird way, and is a complete m
 
 The engine features some render modes, base color render mode, wireframe render mode, solid color render mode, light preview render mode, depth preview render mode, and a complete render mode wich combines the base color and the light.
 
-This shit runs extremely well in bad computers, I used a **i3 with integrated graphics** to make this
+This shit runs extremely well in bad computers
 
 oh, by the way, this only draws triangles, so something like reflections are really dificult, and light values are based on distance, shadows are not posible
 
