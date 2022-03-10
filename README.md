@@ -11,31 +11,25 @@ oh, by the way, this only draws triangles, so something like reflections are rea
 
 ![image](https://user-images.githubusercontent.com/59940124/151159167-9d70d4ca-2c39-41c8-84bc-e8de58119402.png)
 
-*complete render "shader"*
-
+*complete render "shader"*  
 ![image](https://user-images.githubusercontent.com/59940124/151160246-eb9c2244-8832-4871-8ad3-4b4b99c7ce77.png)
 
-*light render "light"*
-
+*light render "light"*  
 ![image](https://user-images.githubusercontent.com/59940124/151161752-7e721ab5-a13c-46f3-914f-2808c2ed2842.png)
 
-*depth render "depth"*
-
+*depth render "depth"*  
 ![image](https://user-images.githubusercontent.com/59940124/151161777-1911cb0f-455c-4208-95cf-37613171319d.png)
 
-*base color render "face"*
-
+*base color render "face"*  
 ![image](https://user-images.githubusercontent.com/59940124/151161793-4096477f-0adb-4df0-9fc3-b6193187873f.png)
 
-*solid color render "mesh"*
-
+*solid color render "mesh"*  
 ![image](https://user-images.githubusercontent.com/59940124/151161813-be99d492-bf76-4ae9-aaf1-1cd682411a12.png)
 
-*wireframe render "complex wireframe" (on preview branch)*
+*wireframe render "complex wireframe" (on preview branch)*  
 just wireframe but for triangles instead of edges, not so complex after all
 
-*wireframe render "wireframe"*
-
+*wireframe render "wireframe"*  
 ![image](https://user-images.githubusercontent.com/59940124/151161839-b528f35e-8f32-43dc-91c8-e136f690a72a.png)
 
 ***
