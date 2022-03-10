@@ -9,7 +9,7 @@ This shit runs extremely well in bad computers
 
 oh, by the way, this only draws triangles, so something like reflections are really dificult, and light values are based on distance, shadows are not posible
 
-![image](https://user-images.githubusercontent.com/59940124/151159167-9d70d4ca-2c39-41c8-84bc-e8de58119402.png)
+![image](https://user-images.githubusercontent.com/59940124/157768976-5350d80c-427d-4736-8679-67d77e794633.png)
 
 *complete render "shader"*  
 ![image](https://user-images.githubusercontent.com/59940124/151160246-eb9c2244-8832-4871-8ad3-4b4b99c7ce77.png)
@@ -27,7 +27,9 @@ oh, by the way, this only draws triangles, so something like reflections are rea
 ![image](https://user-images.githubusercontent.com/59940124/151161813-be99d492-bf76-4ae9-aaf1-1cd682411a12.png)
 
 *wireframe render "complex wireframe" (on preview branch)*  
-just wireframe but for triangles instead of edges, not so complex after all
+just wireframe but for triangles instead of edges, not so complex after all  
+![image](https://user-images.githubusercontent.com/59940124/157769087-0d02e07e-a58d-408e-85c2-4d05431be8ea.png)
+
 
 *wireframe render "wireframe"*  
 ![image](https://user-images.githubusercontent.com/59940124/151161839-b528f35e-8f32-43dc-91c8-e136f690a72a.png)
