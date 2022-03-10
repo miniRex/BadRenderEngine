@@ -26,7 +26,7 @@ oh, by the way, this only draws triangles, so something like reflections are rea
 *solid color render "mesh"*  
 ![image](https://user-images.githubusercontent.com/59940124/151161813-be99d492-bf76-4ae9-aaf1-1cd682411a12.png)
 
-*wireframe render "complex wireframe" (on preview branch)*  
+*wireframe render "complex wireframe"*  
 just wireframe but for triangles instead of edges, not so complex after all  
 ![image](https://user-images.githubusercontent.com/59940124/157769087-0d02e07e-a58d-408e-85c2-4d05431be8ea.png)
 
