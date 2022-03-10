@@ -31,6 +31,9 @@ oh, by the way, this only draws triangles, so something like reflections are rea
 
 ![image](https://user-images.githubusercontent.com/59940124/151161813-be99d492-bf76-4ae9-aaf1-1cd682411a12.png)
 
+*wireframe render "complex wireframe"*
+just wireframe but for triangles instead of edges, not so complex after all
+
 *wireframe render "wireframe"*
 
 ![image](https://user-images.githubusercontent.com/59940124/151161839-b528f35e-8f32-43dc-91c8-e136f690a72a.png)
