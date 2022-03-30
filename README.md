@@ -39,4 +39,5 @@ If you want to modify the background just replace the image called "Background.j
 
 ***
 *do whatever you want with the code, but please give credits if you publish it*
+
 *also there is all in 1 line version (more nightmare version)*
