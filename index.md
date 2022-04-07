@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+# Bad Render Engine
 
-You can use the [editor on GitHub](https://github.com/miniRex/BadRenderEngine/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I think most of the code works in a very awkward way.
+The mesh rotation is a nightmare, works in a very weird way, and is a complete mess. I tried to improve it, but the only way to do that is redoing it from 0.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The engine features some render modes, base color render mode, wireframe render mode, solid color render mode, light preview render mode, depth preview render mode, and a complete render mode wich combines the base color and the light.
 
-### Markdown
+This shit runs extremely well in bad computers
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+oh, by the way, this only draws triangles, so something like reflections are really dificult, and light values are based on distance, shadows are not posible
 
-```markdown
-Syntax highlighted code block
+![image](https://user-images.githubusercontent.com/59940124/151159167-9d70d4ca-2c39-41c8-84bc-e8de58119402.png)
 
-# Header 1
-## Header 2
-### Header 3
+*complete render "shader"*  
+![image](https://user-images.githubusercontent.com/59940124/151160246-eb9c2244-8832-4871-8ad3-4b4b99c7ce77.png)
 
-- Bulleted
-- List
+*light render "light"*  
+![image](https://user-images.githubusercontent.com/59940124/151161752-7e721ab5-a13c-46f3-914f-2808c2ed2842.png)
 
-1. Numbered
-2. List
+*depth render "depth"*  
+![image](https://user-images.githubusercontent.com/59940124/151161777-1911cb0f-455c-4208-95cf-37613171319d.png)
 
-**Bold** and _Italic_ and `Code` text
+*base color render "face"*  
+![image](https://user-images.githubusercontent.com/59940124/151161793-4096477f-0adb-4df0-9fc3-b6193187873f.png)
 
-[Link](url) and ![Image](src)
-```
+*solid color render "mesh"*  
+![image](https://user-images.githubusercontent.com/59940124/151161813-be99d492-bf76-4ae9-aaf1-1cd682411a12.png)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+*wireframe render "wireframe"*  
+![image](https://user-images.githubusercontent.com/59940124/151161839-b528f35e-8f32-43dc-91c8-e136f690a72a.png)
 
-### Jekyll Themes
+***
+If you want to modify the background just replace the image called "Background.jpg", and the same goes for the light icon.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/miniRex/BadRenderEngine/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+***
+*do whatever you want with the code, but please give credits if you publish it*
