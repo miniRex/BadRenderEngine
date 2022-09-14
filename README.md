@@ -44,7 +44,7 @@ If you want to modify the background just replace the image called "Background.j
 
 ***
 **Changes from last version:**
-```
+```diff
 +added mesh json data editing, exporting and importing
 +added mesh name display
 +added complex wireframe rendering
@@ -54,7 +54,7 @@ If you want to modify the background just replace the image called "Background.j
 -changed "render scale" text to "world scale"
 -changed debug font
 -changed how options are ordered and separated
--the java script code has been separated from the html code
+!the java script code has been separated from the html code
 +added missing shading info from the options
 -fixed target fps not updating when force fps target was disable
 ```
