@@ -41,3 +41,20 @@ If you want to modify the background just replace the image called "Background.j
 
 ***
 *do whatever you want with the code, but please give credits if you publish it*
+
+***
+**Changes from last version:**
+```
++added mesh json data editing, exporting and importing
++added mesh name display
++added complex wireframe rendering
++added shaded wireframe rendering
+-fixed speed displayed values, now clampled to 2 decimals
+-changed "frames per second" text to "calls per second"
+-changed "render scale" text to "world scale"
+-changed debug font
+-changed how options are ordered and separated
+-the java script code has been separated from the html code
++added missing shading info from the options
+-fixed target fps not updating when force fps target was disable
+```
