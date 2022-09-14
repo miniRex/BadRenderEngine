@@ -1,4 +1,4 @@
-  body {
+body {
     background-color: rgb(32,32,32);
   }
   label {
@@ -53,4 +53,9 @@
     font-size: 14px;
     font-style: normal;
     font-weight: bold;
+  }
+  textarea {
+    resize: none;
+    width: 500px;
+    height: 300px;
   }
