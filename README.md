@@ -8,7 +8,7 @@ The engine features some render modes, base color render mode, wireframe render 
 
 This shit runs extremely well in bad computers
 
-oh, by the way, this only draws triangles, so something like reflections are really dificult, and light values are based on distance, shadows are not posible
+oh, by the way, this only draws triangles, so something like reflections are really dificult, and light values are based on distance, shadows are not posible, well, actually it could have shadows but i would have to redo all the lighting code.
 
 ![image](https://user-images.githubusercontent.com/59940124/190127666-5db3ebd0-0cca-4fa6-8c79-0f6e12c30aaa.png)
 
